@@ -36,4 +36,3 @@ These notebooks document coursework and educational demonstrations. Some impleme
 
 **Syed Haseeb Ali**
 MS in Computer Science, Oklahoma City University
-Expected graduation: December 2026
